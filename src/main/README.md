@@ -26,7 +26,7 @@ List of technologies used in this project:
 
 ### Installation
 ***
-* Open Finish/Console
+* Open the Console
 * Through this enter the folder containing the project
 * Enter in "PracticasJava---Inventario/src/Inventario/"
 * Execute the command "java GestionConcecionar.java"
