@@ -30,5 +30,5 @@ class GestionConcecionariaTest {
         resta = cantidadAutos - descuento;
         System.out.println("Test ok, "+cantidadAutos+ " autos - " +descuento+ " = " +resta + " Autos.");
     }
-
+//revisar spanglish
 }
