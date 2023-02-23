@@ -1,7 +1,6 @@
 # PracticasJava
 ***
-
-Descripcion corta: programa para manejar el inventario de concecionarias y atumoviles.
+Short description: program to manage the inventory of dealerships and automobiles.
 ***
 
 ## Table of Contents
@@ -15,28 +14,28 @@ Descripcion corta: programa para manejar el inventario de concecionarias y atumo
 <a name="general-info"></a>
 ### General Info
 ***
-Programa diseñado para almacenar concecionarias y automoviles, es posible agregarlas, quitarlas y consultarlas.
-Ademas cuanta con manejo de errors.
+Program designed to store car dealerships, it is possible to add, remove and consult them.
+Also how much with error handling.
 ***
 
 ### Technologies
 ***
-Lista de tecnologias usadas en este proyecto:
+List of technologies used in this project:
 * [Java] (https://www.java.com/es/): Version 19.0.2
 ***
 
 ### Installation
 ***
-* Abrir la Terminar/Consola
-* A traves de esta ingresar en la carpeta contenedora del proyecto
-* Ingresar en "PracticasJava---Inventario/src/Inventario/"
-* Ejecutar el comando "java GestionConcecionar.java"
+* Open the Console
+* Through this enter the folder containing the project
+* Enter in "PracticasJava---Inventario/src/Inventario/"
+* Execute the command "java GestionConcecionar.java"
 ***
 
 ### Collaboration
 ***
-* Agregar una base de datos.
-* Agregar una funcion para buscar autos.
+* Add a database.
+* Add a function to search for cars.
 ***
 
 ## FAQs
