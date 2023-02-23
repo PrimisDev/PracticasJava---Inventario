@@ -12,6 +12,16 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+<<<<<<< HEAD
+=======
+# estos los agregue yo
+.idea/
+.idea/**/encodings.xml
+.idea/**/vcs.xml
+.idea/**/.gitignore
+/target
+
+>>>>>>> 97d8bba262b518e2714a87e5109921a0792278f9
 # AWS User-specific
 .idea/**/aws.xml
 
@@ -140,6 +150,7 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 ### Maven ###
 target/
 pom.xml.tag
@@ -160,3 +171,6 @@ buildNumber.properties
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,maven
+=======
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij
+>>>>>>> 97d8bba262b518e2714a87e5109921a0792278f9
