@@ -17,7 +17,7 @@
 .idea/**/encodings.xml
 .idea/**/vcs.xml
 .idea/**/.gitignore
-target/
+/target
 
 # AWS User-specific
 .idea/**/aws.xml
